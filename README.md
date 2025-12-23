@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes the first project from TOP
+The project is about creating a basic recipe website using HTML. Proper coding, creativity, and to properly commit in git are one of the few skills I'm looking forward to have after this project.
