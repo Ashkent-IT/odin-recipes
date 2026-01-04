@@ -22,7 +22,7 @@ body {
 .recipe-list {
     border: #845bb3 solid 2px;
     background-color: #845bb34f;
-    width: 35vw;
+    width: 50vw;
     margin: 5px auto;
     padding: 1rem;
 }
@@ -38,6 +38,7 @@ body {
 .recipe-list a {
     color: inherit;
     font-family: Georgia, 'times new roman', monospace;
+    font-size:1rem;
     text-decoration: none;
 }
 
