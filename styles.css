@@ -6,3 +6,11 @@ html {
     box-sizing: inherit;
     margin: 0;
 }
+
+.heading {
+    background-color: #494D5F;
+    color: #e5eaf5;
+    font-family: Arial Sans-serif;
+    text-align: center;
+    padding: 1rem;
+}
