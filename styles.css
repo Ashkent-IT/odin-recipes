@@ -18,3 +18,32 @@ html {
 body {
     background-color: #a0d2eb;
 }
+
+.recipe-list {
+    border: #845bb3 solid 2px;
+    background-color: #845bb34f;
+    width: 35vw;
+    margin: 5px auto;
+    padding: 1rem;
+}
+
+.recipe-list li {
+    text-align: center;
+    list-style: none;
+    border: black inset 2px;
+    margin: 1rem;
+    padding: 0.4em;
+}
+
+.recipe-list a {
+    color: inherit;
+    font-family: Georgia, 'times new roman', monospace;
+    text-decoration: none;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    width: 60ch;
+    margin: 1rem auto;
+}
